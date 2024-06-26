@@ -1,0 +1,5 @@
+Calificación: 3.4/4
+
+- En el main, debe realizar al menos 2 llamadas por cada función
+- Debe documentar todas las funciones
+
